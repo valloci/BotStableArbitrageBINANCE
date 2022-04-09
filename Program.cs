@@ -233,7 +233,7 @@ class Program
                 Logger.log("ERROR ::: " + ex.Message + ex.StackTrace);
             }
 
-            Logger.log("====================================================");
+            Logger.log("Atualizando..........");
             sleep(6000);
         }
 
